@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Freddy De Andrade</h1>
 <h3 align="center">A passionate learning developer</h3>
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>-->
-**A1ebyte/A1ebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **A1ebyte/A1ebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
