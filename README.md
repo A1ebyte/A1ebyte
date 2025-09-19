@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 ## Hi there 👋
-
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **A1ebyte/A1ebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
