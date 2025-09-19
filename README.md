@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Freddy De Andrade</h1>
 <h3 align="center">A passionate learning developer</h3>
-#nose
 
 <p align="center">
   <picture>
