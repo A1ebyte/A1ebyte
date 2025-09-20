@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Resource/IconGif.gif" width="300"/>
+  <img src="Resource/IconGif.gif" width="30%"/>
   <h1 align="center" font=Pixelify+Sans>Hi there 👋, I'm Freddy
     <br/>
     <picture>
@@ -14,7 +14,8 @@
   </h1>
 </div>
 
-<p align="center">
+<div>
+  <p align="right" width="50%">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&theme=dark&bg_color=00000000"
@@ -25,6 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&bg_color=00000000" />
 </picture>
 </p>
+</div>
+
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
