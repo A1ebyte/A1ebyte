@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/kXixecGzl2gBlpO4SQ.webp" alt="Icon" maxwidth="300" />
+  <img src="Resource/IconBegin.webp" />
   <h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy
     <br/>
     <img src="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
