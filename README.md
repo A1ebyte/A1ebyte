@@ -4,16 +4,16 @@
     <br/>
     <picture>
       <source
-        srcset="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&heigth=30&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG"
+        srcset="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&vCenter=true&height=26&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG"
         media="(prefers-color-scheme: dark)"/>
       <source
-        srcset="https://readme-typing-svg.demolab.com?&pause=2000&color=000000FF&center=true&heigth=30&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG"
+        srcset="https://readme-typing-svg.demolab.com?&pause=2000&color=000000FF&center=true&vCenter=true&height=26&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img src="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&heigth=30&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&vCenter=true&height=26&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
     </picture>
   </h1>
 </div>
-
+<br/>
 <div>
   <p align="right">
   <picture>
