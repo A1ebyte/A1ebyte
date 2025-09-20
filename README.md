@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Freddy De Andrade</h1>
 <h3 align="center">A passionate learning developer</h3>
 
+<picture>
+  <source srcset="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv"/>
+  <img src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv"/>
+</picture>
+
 <p align="center">
   <picture>
   <source
