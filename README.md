@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTkxemJuZmgwcjFsbDQ5N3JqazVoa3hwNm1tajJpM2psN2d4anBmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kXixecGzl2gBlpO4SQ/giphy.gif" alt="Icon" width="50%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTkxemJuZmgwcjFsbDQ5N3JqazVoa3hwNm1tajJpM2psN2d4anBmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kXixecGzl2gBlpO4SQ/giphy.gif" alt="Icon" width="50" />
 
 <h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy
   <br/>
