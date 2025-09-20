@@ -1,5 +1,5 @@
 <h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy
-  <br/><img src="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&width=435&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
+  <br/><img src="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&height=22&&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
 </h1>
 <p align="center">
   <picture>
