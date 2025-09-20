@@ -1,5 +1,5 @@
 <h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=2000&color=F7F7F7&center=true&vCenter=true&width=435&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" /></a>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=&pause=2000&color=F7F7F7&center=true&width=435&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
 <p align="center">
   <picture>
   <source
