@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Freddy De Andrade</h1>
-<h3 align="center">A passionate learning developer</h3>
+<h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy</h1>
+<img src="https://readme-typing-svg.demolab.com?font=&pause=2000&width=435&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
 
 <div>
   <picture>
