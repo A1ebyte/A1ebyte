@@ -1,6 +1,7 @@
 <div align="center">
   <img src="Resource/IconGif.gif" width="300"/>
-  <h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy
+  <h1 align="center" font=Pixelify+Sans>Hi there 
+    <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgzMzc0OTYsIm5iZiI6MTc1ODMzNzE5NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTIwVDAyNTk1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlYjA5MzBjY2U2ZjQ0OGQwMTA5N2FjZjRlY2ZjYzQ1ZTgyZDkyYjU0N2M0ODgzYzVhMzAwM2M5NzIxOGY4ZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IFdrLjUh2GT3oRufZtKwsLSxTjCwQAzq4ozPcIgM638" /> , I'm Freddy
     <br/>
     <img src="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&heigth=30&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
   </h1>
