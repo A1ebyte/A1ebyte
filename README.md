@@ -1,6 +1,6 @@
 <div align="center">
   <img src="Resource/IconGif.gif" width="30%"/>
-  <h1 align="center" font=Pixelify+Sans>Hi there 👋, I'm Freddy
+  <h1>Hi there 👋, I'm Freddy
     <br/>
     <picture>
       <source
@@ -15,7 +15,7 @@
 </div>
 
 <div>
-  <p align="right" width="50%">
+  <p align="right">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&theme=dark&bg_color=00000000"
