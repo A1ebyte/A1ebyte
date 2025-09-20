@@ -1,7 +1,8 @@
 <div align="center">
   <img src="Resource/IconGif.gif" />
-  <h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy</h1>
-  <img src="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
+  <h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy
+    <img src="https://readme-typing-svg.demolab.com?&pause=2000&color=F7F7F7&center=true&heigth=30&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
+  </h1>
 </div>
 
 <p align="center">
