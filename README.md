@@ -1,7 +1,6 @@
-<h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy</h1>
-<p alifn=center>
+<h1 align="center" font=Pixelify+Sans>Hi there, I'm Freddy
   <img src="https://readme-typing-svg.demolab.com?font=&pause=2000&color=F7F7F7&center=true&width=435&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+passionate+learnig+developer" alt="Typing SVG" />
-</p>
+</h1>
 <p align="center">
   <picture>
   <source
