@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Freddy De Andrade</h1>
 <h3 align="center">A passionate learning developer</h3>
 
-<picture>
-  <source srcset="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv"/>
-  <img src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv"/>
-</picture>
+<div>
+  <picture>
+    <source srcset="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv" style="position: absolute"/>
+    <img src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv" style="position: absolute"/>
+  </picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=100&duration=4000&pause=2000&color=F7F7F7&center=true&width=435&lines=A+Web+Developer+in+making;A+Videogame+Developer;A+Programming+enthusiast" alt="Typing SVG" style="position: absolute"/>
+</div>
+
 
 <p align="center">
   <picture>
