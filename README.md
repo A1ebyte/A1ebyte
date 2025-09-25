@@ -1,8 +1,8 @@
 <div align="center">
   <img src="Resource/IconGif.gif" width="30%"/>
   <div align="center">
-    <a href="https://www.linkedin.com/in/freddy-de-andrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat" alt="LinkedIn"></a>
-    <a href="mailto:freddydeandrade54@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/freddy-de-andrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat" alt="LinkedIn"></a>&nbsp;
+    <a href="mailto:freddydeandrade54@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat" alt="Gmail"></a>&nbsp;
     <a href="https://a1ekai.artstation.com/" target="_blank"><img src="https://img.shields.io/badge/ArtStation-13AFF0?&style=flat" alt="ArtStation Badge"></a>
   </div>
   <h1>Hi there 👋, I'm Freddy <br/> 
