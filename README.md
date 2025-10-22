@@ -20,19 +20,19 @@
   </div>
   <div align="right">
     <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&rank_icon=github&theme=dark&bg_color=00000000&custom_title=A1ebyte's+Github+Stats" 
+    <source srcset="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&rank_icon=github&theme=dark&bg_color=00000000&custom_title=A1ebyte's+Github+Stats&cache_seconds=40500" 
       media="(prefers-color-scheme: dark)"/> 
-    <source srcset="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&rank_icon=github&bg_color=00000000&custom_title=A1ebyte's+Github+Stats" 
+    <source srcset="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&rank_icon=github&bg_color=00000000&custom_title=A1ebyte's+Github+Stats&cache_seconds=40500" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/> 
-    <img src="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&bg_color=00000000"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&bg_color=00000000&cache_seconds=40500"/> 
     </picture>
   <br/>
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ebyte&layout=compact&theme=dark&card_width=467&bg_color=00000000" 
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ebyte&layout=compact&theme=dark&card_width=467&bg_color=00000000&cache_seconds=40500" 
         media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ebyte&layout=compact&card_width=467&bg_color=00000000" 
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ebyte&layout=compact&card_width=467&bg_color=00000000&cache_seconds=40500" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ebyte&layout=compact&card_width=467&bg_color=00000000"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ebyte&layout=compact&card_width=467&bg_color=00000000&cache_seconds=40500"/>
     </picture>
   </div>
 <!--<h3 align="left">Connect with me:</h3> <p align="left"> </p>--> <!-- **A1ebyte/A1ebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
