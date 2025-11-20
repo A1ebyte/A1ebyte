@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="Resource/IconGif.gif" width="30%"/>
+  <picture>
+    <source srcset="Resource/IconGif.gif" alt="Gif" width="30%" />
+    <img src="Resource/IconGif.gif" alt=Gif width="30%" />
+  </picture>
   <div align="center">
     <a href="https://www.linkedin.com/in/freddy-de-andrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat" alt="LinkedIn"></a>&nbsp;
     <a href="mailto:freddydeandrade54@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat" alt="Gmail"></a>&nbsp;
