@@ -23,11 +23,9 @@
   </div>
   <div align="right">
     <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&rank_icon=github&theme=dark&bg_color=00000000&custom_title=A1ebyte's+Github+Stats&cache_seconds=40500" 
-      media="(prefers-color-scheme: dark)"/> 
-    <source srcset="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&rank_icon=github&bg_color=00000000&custom_title=A1ebyte's+Github+Stats&cache_seconds=40500" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/> 
-    <img src="https://github-readme-stats.vercel.app/api?username=A1ebyte&show_icons=true&bg_color=00000000&cache_seconds=40500"/> 
+      <source srcset="Resource/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="Resource/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="Resource/stats-light.svg" />
     </picture>
   <br/>
     <picture>
