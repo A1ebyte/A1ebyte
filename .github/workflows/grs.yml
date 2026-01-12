@@ -14,14 +14,42 @@ jobs:
         with:
           token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Generate stats card
+      # Dark theme card Stats
+      - name: Generate dark stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=truerank_icon=github&theme=dark&bg_color=00000000&custom_title=A1ebyte's+Github+Stats
+          path: Resource/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Light theme card Stats
+      - name: Generate light stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&rank_icon=github&bg_color=00000000&custom_title=A1ebyte's+Github+Stats
+          path: Resource/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Dark theme Top Languages card
+      - name: Generate dark top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&card_width=467&bg_color=00000000
+          path: Resource/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Light theme Top Languages card
+      - name: Generate light top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: langs
+          options: username=${{ github.repository_owner }}&layout=compact&card_width=467&bg_color=00000000
+          path: Resource/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Commit cards
         run: |
           git config user.name "github-actions"
