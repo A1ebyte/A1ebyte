@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=truerank_icon=github&theme=dark&bg_color=00000000&custom_title=A1ebyte's+Github+Stats
+          options: username=${{ github.repository_owner }}&show_icons=true&rank_icon=github&theme=dark&bg_color=00000000&custom_title=A1ebyte's+Github+Stats
           path: Resource/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
